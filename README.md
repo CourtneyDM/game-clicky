@@ -1,2 +1,3 @@
-# game-clicky
+# Clickity Click Game
+
 React-based interactive game
