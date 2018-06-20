@@ -5,10 +5,12 @@ import Title from './components/Title/Title';
 import dominoes from './dominoes.json';
 
 class App extends React.Component {
-
+    // Set state of dominoes
     state = {
         dominoes
     };
+
+    // TODO: Create a function that will randomly shuffle dominoes on the screen using Math.Random
 
     // shuffleDominoes = id => {
     //     const dominoes = this.state.dominoes();
