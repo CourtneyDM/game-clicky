@@ -6,7 +6,7 @@ Think you've got what it takes to get a perfect score? Test your memory skills w
 
 This is an interactive game that test one's ability to memorize which domino they previously selected.
 
-![alt text](https://github.com/CourtneyDM/courtneydm.github.io/blob/master/public/assets/images/screenshots/_domino-memory-challenge.jpeg  "Domino Memory Game")
+![alt text](https://github.com/CourtneyDM/courtneydm.github.io/blob/master/public/assets/images/screenshots/_domino-memory-challenge.jpeg?raw=true  "Domino Memory Game")
 
 
 Click [here](https://domino-memory-challenge.herokuapp.com/) to test your memory skills!
