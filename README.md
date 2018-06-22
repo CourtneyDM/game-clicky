@@ -13,14 +13,15 @@ Click [here](https://domino-memory-challenge.herokuapp.com/) to test your memory
 
 ### Resources
 
-The following technologies were used to create this web app   
+The following technologies were used to create this web app  
 
 * [CSS](#)  
-* [Javascript ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript)     
-* [ReactJS](https://reactjs.org)   
+* [Javascript ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+* [ReactJS](https://reactjs.org)  
 * [Yarn Package Manager](https://yarnpkg.com/lang/en/)
 
 ---
 
 #### Copyright
+
 Copyright &copy; 2018 Courtney Montgomery | [https://courtneydm.github.io](https://courtneydm.github.io)
