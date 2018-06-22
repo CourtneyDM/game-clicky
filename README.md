@@ -15,7 +15,8 @@ Click [here](https://domino-memory-challenge.herokuapp.com/) to test your memory
 
 The following technologies were used to create this web app  
 
-* [CSS](#)  
+* [CSS](https://www.codecademy.com) 
+* [HTML](https://www.freecodecamp.com)
 * [Javascript ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [ReactJS](https://reactjs.org)  
 * [Yarn Package Manager](https://yarnpkg.com/lang/en/)
