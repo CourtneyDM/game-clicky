@@ -1,3 +1,6 @@
-# Clickity Click Game
+# Domino Memory Challenge
 
-React-based interactive game
+Think you've got what it takes to get a perfect score? Test your memory skills with this React-based memory game!
+
+
+
