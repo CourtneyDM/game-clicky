@@ -7,9 +7,9 @@ img {
     margin: 5px;
     height: 250px;
     width: auto;
-    position: relative;
+    /* position: relative; */
 }
 
-.dominoes {
+.domino {
     display: inline-block;
 }
