@@ -1,4 +1,15 @@
+body {
+    background-attachment: fixed;
+    background-image: url('https://images.pexels.com/photos/164005/pexels-photo-164005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    z-index: -1;
+}
 img {
-    height: 300px;
+    margin: 5px;
+    height: 250px;
     width: auto;
+    position: relative;
+}
+
+.dominoes {
+    display: inline-block;
 }
